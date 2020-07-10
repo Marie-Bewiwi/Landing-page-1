@@ -20,6 +20,7 @@ section {
   display: flex;
   font-family: "Flamenco-Regular";
   flex-direction: row;
+  padding-left:16px;
 }
 
 article {
@@ -47,7 +48,7 @@ box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
 img {
-	float: right ;
+
 	width: 380px;
 	height: 230px;
 	border-radius: 42px;
