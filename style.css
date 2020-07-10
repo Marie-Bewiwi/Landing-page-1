@@ -21,6 +21,7 @@ section {
   font-family: "Flamenco-Regular";
   flex-direction: row;
   padding-left:16px;
+  margin-bottom:35px;
 }
 
 article {
