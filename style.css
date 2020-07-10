@@ -4,7 +4,8 @@
 }
 
 body{
-	background-color: #f9fafa ;
+  background-color: #f9fafa ;
+  margin:0;
 }
 
 header{
@@ -178,6 +179,6 @@ footer > p {
 	position: absolute ;
     bottom:-13px;
     right: 10px;
-    color:black;
+    color:white;
     font-size: 18px;
 }
